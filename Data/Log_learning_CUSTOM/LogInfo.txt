@@ -1,0 +1,274 @@
+
+---------------------------------------
+
+episode time: 55.40 s (avg step: 0.51 s) 
+episode steps: 109 
+episode reward: -281.52 
+episode max | avg | min reward: -0.49 | -2.61 | -100.89 
+T = 25.000000 
+
+---------------------------------------
+
+episode time: 56.15 s (avg step: 0.51 s) 
+episode steps: 111 
+episode reward: -280.10 
+episode max | avg | min reward: -0.49 | -2.55 | -100.49 
+T = 23.750000 
+
+---------------------------------------
+
+episode time: 77.88 s (avg step: 0.50 s) 
+episode steps: 155 
+episode reward: -212.96 
+episode max | avg | min reward: -0.49 | -1.38 | -100.49 
+T = 22.562500 
+
+---------------------------------------
+
+episode time: 143.15 s (avg step: 0.51 s) 
+episode steps: 281 
+episode reward: -200.60 
+episode max | avg | min reward: -0.49 | -0.72 | -0.99 
+T = 21.434375 
+
+---------------------------------------
+
+episode time: 106.52 s (avg step: 0.64 s) 
+episode steps: 166 
+episode reward: -226.05 
+episode max | avg | min reward: -0.49 | -1.37 | -100.89 
+T = 20.362656 
+
+---------------------------------------
+
+episode time: 101.15 s (avg step: 0.76 s) 
+episode steps: 133 
+episode reward: -295.38 
+episode max | avg | min reward: -0.49 | -2.24 | -100.89 
+T = 19.344523 
+
+---------------------------------------
+
+episode time: 31.39 s (avg step: 0.80 s) 
+episode steps: 39 
+episode reward: -230.22 
+episode max | avg | min reward: -0.49 | -6.06 | -100.89 
+T = 18.377297 
+
+---------------------------------------
+
+episode time: 223.85 s (avg step: 1.00 s) 
+episode steps: 224 
+episode reward: -260.27 
+episode max | avg | min reward: -0.49 | -1.17 | -100.89 
+T = 17.458432 
+
+---------------------------------------
+
+episode time: 47.13 s (avg step: 1.12 s) 
+episode steps: 42 
+episode reward: -232.89 
+episode max | avg | min reward: -0.49 | -5.68 | -100.99 
+T = 16.585511 
+
+TOO BIG STEP TIME: 2.29 s
+
+TOO BIG STEP TIME: 2.05 s
+
+---------------------------------------
+
+episode time: 202.95 s (avg step: 1.37 s) 
+episode steps: 148 
+episode reward: -200.43 
+episode max | avg | min reward: -0.49 | -1.36 | -100.99 
+T = 15.756235 
+
+TOO BIG STEP TIME: 2.07 s
+
+TOO BIG STEP TIME: 2.18 s
+
+---------------------------------------
+
+episode time: 88.22 s (avg step: 1.70 s) 
+episode steps: 52 
+episode reward: -237.69 
+episode max | avg | min reward: -0.49 | -4.66 | -100.89 
+T = 14.968423 
+
+TOO BIG STEP TIME: 2.33 s
+
+TOO BIG STEP TIME: 2.29 s
+
+TOO BIG STEP TIME: 2.26 s
+
+TOO BIG STEP TIME: 2.16 s
+
+TOO BIG STEP TIME: 2.00 s
+
+TOO BIG STEP TIME: 2.11 s
+
+TOO BIG STEP TIME: 2.18 s
+
+---------------------------------------
+
+episode time: 114.67 s (avg step: 1.82 s) 
+episode steps: 63 
+episode reward: -246.48 
+episode max | avg | min reward: -0.49 | -3.98 | -100.89 
+T = 14.220002 
+
+TOO BIG STEP TIME: 2.07 s
+
+TOO BIG STEP TIME: 2.18 s
+
+TOO BIG STEP TIME: 2.04 s
+
+---------------------------------------
+
+episode time: 39.49 s (avg step: 1.88 s) 
+episode steps: 21 
+episode reward: -213.80 
+episode max | avg | min reward: -0.49 | -10.69 | -100.89 
+T = 13.509002 
+
+TOO BIG STEP TIME: 2.12 s
+
+TOO BIG STEP TIME: 2.05 s
+
+TOO BIG STEP TIME: 2.03 s
+
+---------------------------------------
+
+episode time: 36.08 s (avg step: 1.90 s) 
+episode steps: 19 
+episode reward: -212.22 
+episode max | avg | min reward: -0.49 | -11.79 | -100.89 
+T = 12.833552 
+
+TOO BIG STEP TIME: 2.06 s
+
+TOO BIG STEP TIME: 2.12 s
+
+TOO BIG STEP TIME: 2.15 s
+
+TOO BIG STEP TIME: 2.10 s
+
+TOO BIG STEP TIME: 2.28 s
+
+TOO BIG STEP TIME: 2.23 s
+
+TOO BIG STEP TIME: 2.17 s
+
+TOO BIG STEP TIME: 2.19 s
+
+TOO BIG STEP TIME: 2.06 s
+
+TOO BIG STEP TIME: 2.20 s
+
+TOO BIG STEP TIME: 2.13 s
+
+TOO BIG STEP TIME: 2.27 s
+
+TOO BIG STEP TIME: 2.17 s
+
+TOO BIG STEP TIME: 2.17 s
+
+TOO BIG STEP TIME: 2.25 s
+
+TOO BIG STEP TIME: 2.29 s
+
+TOO BIG STEP TIME: 2.19 s
+
+TOO BIG STEP TIME: 2.20 s
+
+TOO BIG STEP TIME: 2.09 s
+
+TOO BIG STEP TIME: 2.25 s
+
+TOO BIG STEP TIME: 4.26 s
+
+TOO BIG STEP TIME: 3.54 s
+
+TOO BIG STEP TIME: 2.29 s
+
+TOO BIG STEP TIME: 2.26 s
+
+TOO BIG STEP TIME: 2.31 s
+
+TOO BIG STEP TIME: 2.08 s
+
+TOO BIG STEP TIME: 2.05 s
+
+TOO BIG STEP TIME: 2.04 s
+
+TOO BIG STEP TIME: 2.13 s
+
+TOO BIG STEP TIME: 2.18 s
+
+---------------------------------------
+
+episode time: 212.08 s (avg step: 1.96 s) 
+episode steps: 108 
+episode reward: -280.73 
+episode max | avg | min reward: -0.49 | -2.62 | -100.99 
+T = 12.191874 
+
+TOO BIG STEP TIME: 2.64 s
+
+TOO BIG STEP TIME: 2.23 s
+
+TOO BIG STEP TIME: 14.44 s
+
+TOO BIG STEP TIME: 2.16 s
+
+TOO BIG STEP TIME: 2.18 s
+
+TOO BIG STEP TIME: 2.42 s
+
+TOO BIG STEP TIME: 2.66 s
+
+TOO BIG STEP TIME: 2.24 s
+
+TOO BIG STEP TIME: 2.13 s
+
+TOO BIG STEP TIME: 2.34 s
+
+TOO BIG STEP TIME: 2.23 s
+
+TOO BIG STEP TIME: 2.26 s
+
+TOO BIG STEP TIME: 2.05 s
+
+TOO BIG STEP TIME: 2.42 s
+
+TOO BIG STEP TIME: 2.23 s
+
+TOO BIG STEP TIME: 2.15 s
+
+TOO BIG STEP TIME: 2.09 s
+
+TOO BIG STEP TIME: 2.27 s
+
+TOO BIG STEP TIME: 2.20 s
+
+TOO BIG STEP TIME: 2.18 s
+
+TOO BIG STEP TIME: 2.30 s
+
+TOO BIG STEP TIME: 2.41 s
+
+TOO BIG STEP TIME: 2.22 s
+
+TOO BIG STEP TIME: 2.10 s
+
+TOO BIG STEP TIME: 2.19 s
+
+TOO BIG STEP TIME: 33.19 s
+
+TOO BIG STEP TIME: 2.26 s
+
+TOO BIG STEP TIME: 2.19 s
+
+TOO BIG STEP TIME: 2.53 s
+
+TOO BIG STEP TIME: 2.41 s
