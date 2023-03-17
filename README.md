@@ -1,6 +1,6 @@
-# QtableV1
+# RL_Hackathon
 
-## --welocomeToV2--- ##
+## --dqn version--- ##
 
 Copy&Run command
 
