@@ -91,12 +91,12 @@ def robotStop(velPub):
     velPub.publish(velMsg)
 # CW command
 def robotCW(velPub):
-    velMsg = createVelMsg(0.0, -CONST_ANGULAR_SPEED_CW)
+    velMsg = createVelMsg(0.0, -CONST_ANGULAR_SPEED_TURN)
     velPub.publish(velMsg)
 
 # CCW command
 def robotCCW(velPub):
-    velMsg = createVelMsg(0.0, +CONST_ANGULAR_SPEED_CW)
+    velMsg = createVelMsg(0.0, CONST_ANGULAR_SPEED_TURN)
     velPub.publish(velMsg)    
 # Set robot position and orientation
 def robotSetPos(setPosPub, x, y, theta):
@@ -171,20 +171,20 @@ def robotDoAction(velPub, action):
     status = 'robotDoAction => OK'
     if action == 0:
         robotGoForward(velPub)
-    elif action == 1:
-        robotTurnLeft(velPub)
-    elif action == 2:
-        robotTurnRight(velPub)
+    # elif action == 1:
+    #     robotTurnLeft(velPub)
+    # elif action == 2:
+    #     robotTurnRight(velPub)
 ########################################
-    elif action == 3:
-        robotGoSuperForward(velPub)
     elif action == 4:
-        robotGoBackward(velPub) 
-    elif action == 5:
+        robotGoSuperForward(velPub)
+    # elif action == 4:
+    #     robotGoBackward(velPub) 
+    elif action == 3:
         robotStop(velPub)   
-    elif action == 6:
+    elif action == 1:
         robotCW(velPub)
-    elif action == 7:
+    elif action == 2:
         robotCCW(velPub)       
     else:
         status = 'robotDoAction => INVALID ACTION'
